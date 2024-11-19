@@ -1,0 +1,36 @@
+body{
+    color:coral;
+    background-color: rgb(63, 61, 61);
+}
+header{
+    font-size: 40px;
+    text-align: center;
+    border-bottom: solid white;
+    padding-bottom: 0px;
+}
+h1{
+    color: aliceblue;
+    flex-direction: column;
+    text-align: center;
+}
+.Video1 {
+    padding-top: 20px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+section {
+    background-color: rgb(104, 103, 103);
+    padding: 20px;
+}
+
+.Chamar1 {
+    overflow-x: auto; 
+}
+
+.video-list {
+    display: flex; 
+    gap: 20px; 
+}
